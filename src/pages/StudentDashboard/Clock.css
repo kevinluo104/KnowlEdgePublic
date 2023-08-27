@@ -1,0 +1,15 @@
+.clock-container {
+    font-size: 10px;
+    margin: 25px;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #0280ef, #1450c8);
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins';
+  }
+
+  .clock-container:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
