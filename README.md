@@ -3,6 +3,8 @@
 
 KnowlEdge is an online course management system built using the MERN stack, KnowlEdge allows users to create accounts, enroll in courses, access course information, create tasks/events on a calendar, create flashcards for practicing terminology, edit profiles, and view course information.
 
+Access the management system here: https://knowledge-client.onrender.com
+
 
 # Project Requirements
 
